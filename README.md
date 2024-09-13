@@ -11,7 +11,7 @@ This is a Python program that simulates a basic bank management system with func
 - Update account holder name, password, and phone number.
 - Delete an account.
   
-## How to Use:
+## How to Use: 
 
 - Clone or download the repository containing this Python script.
 - Open a terminal or command prompt and navigate to the directory containing the script.
